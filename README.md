@@ -9,3 +9,5 @@ Efficient Memory Management for Large Language Model Serving with PagedAttention
 Tidy Data (Journal of Statistical Software 2014)
 
 When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards (ArXiv 2024)
+
+A Comprehensive Survey of Compression Algorithms for Language Models (ArXiv 2024)
