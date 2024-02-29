@@ -11,3 +11,5 @@ Tidy Data (Journal of Statistical Software 2014)
 When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards (ArXiv 2024)
 
 A Comprehensive Survey of Compression Algorithms for Language Models (ArXiv 2024)
+
+Prometheus: Inducing Fine-grained Evaluation Capability in Language Models (ICLR 2023)
