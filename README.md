@@ -18,3 +18,5 @@ Prometheus: Inducing Fine-grained Evaluation Capability in Language Models (ICLR
 ### Main Interest : Optimal Serving, Model Quantization
 
 No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization (ArXiv 2024)
+
+Do Llamas Work in English? On the Latent Language of Multilingual Transformers (ArXiv 2024)
