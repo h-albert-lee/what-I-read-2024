@@ -20,3 +20,5 @@ Prometheus: Inducing Fine-grained Evaluation Capability in Language Models (ICLR
 No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization (ArXiv 2024)
 
 Do Llamas Work in English? On the Latent Language of Multilingual Transformers (ArXiv 2024)
+
+Is Cosine-Similarity of Embeddings Really About Similarity? (ArXiv 2024)
