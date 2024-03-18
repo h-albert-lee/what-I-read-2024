@@ -22,3 +22,5 @@ No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed P
 Do Llamas Work in English? On the Latent Language of Multilingual Transformers (ArXiv 2024)
 
 Is Cosine-Similarity of Embeddings Really About Similarity? (ArXiv 2024)
+
+SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves (Network and Distributed System Security Symposium)
