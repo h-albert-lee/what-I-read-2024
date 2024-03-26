@@ -24,3 +24,5 @@ Do Llamas Work in English? On the Latent Language of Multilingual Transformers (
 Is Cosine-Similarity of Embeddings Really About Similarity? (ArXiv 2024)
 
 SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves (Network and Distributed System Security Symposium)
+
+The Generative AI Paradox : What it can create, it may not understand (ArXiv 2024)
