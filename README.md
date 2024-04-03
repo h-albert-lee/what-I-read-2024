@@ -31,3 +31,5 @@ The Generative AI Paradox : What it can create, it may not understand (ArXiv 202
 ### Main Interest : Multilinguality, LM Evaluation
 
 Evalverse: Unified and Accessible Library for Large Language Model Evaluation (ArXiv 2024)
+
+HyperClova X technical report (ArXiv 2024)
