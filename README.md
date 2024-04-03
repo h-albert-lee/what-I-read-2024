@@ -26,3 +26,8 @@ Is Cosine-Similarity of Embeddings Really About Similarity? (ArXiv 2024)
 SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves (Network and Distributed System Security Symposium)
 
 The Generative AI Paradox : What it can create, it may not understand (ArXiv 2024)
+
+## April
+### Main Interest : Multilinguality, LM Evaluation
+
+Evalverse: Unified and Accessible Library for Large Language Model Evaluation (ArXiv 2024)
