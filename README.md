@@ -35,3 +35,5 @@ Evalverse: Unified and Accessible Library for Large Language Model Evaluation (A
 HyperClova X technical report (ArXiv 2024)
 
 THE GENERATIVE AI PARADOX: “What It Can Create, It May Not Understand” (ArXiv 2024)
+
+BATCH CALIBRATION: RETHINKING CALIBRATION FOR IN-CONTEXT LEARNING AND PROMPT ENGINEERING (ICLR 2024)
