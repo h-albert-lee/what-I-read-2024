@@ -37,3 +37,5 @@ HyperClova X technical report (ArXiv 2024)
 THE GENERATIVE AI PARADOX: “What It Can Create, It May Not Understand” (ArXiv 2024)
 
 BATCH CALIBRATION: RETHINKING CALIBRATION FOR IN-CONTEXT LEARNING AND PROMPT ENGINEERING (ICLR 2024)
+
+Generative AI for Synthetic Data Generation: Methods, Challenges and the Future(ArXiv 2024)
